@@ -1,0 +1,6 @@
+streamlit>=1.37
+snowflake-connector-python>=3.10
+groq>=0.11
+python-dotenv>=1.0
+pandas>=2.0
+sqlparse>=0.5
